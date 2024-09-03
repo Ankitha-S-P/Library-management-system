@@ -10,3 +10,5 @@ This project is a Library Management System designed to streamline the administr
 -Transaction Tracking: Keep track of book checkouts and returns.
 
 The system is implemented using html,CSS,javascript,php,mysql and bootstrap and is designed with a user-friendly interface to enhance efficiency in library operations.
+
+The Use-Case behavioral UML diagram for the Library Management System is also given in this repository.
